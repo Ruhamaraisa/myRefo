@@ -1,0 +1,16 @@
+nav{
+    display: flex;
+}
+nav ul{
+    display: flex;
+    margin-left: 500px;
+}
+nav ul li{
+    list-style: none;
+   
+}
+nav ul li a{
+    text-decoration: none;
+    margin-left: 10px;
+    
+}
